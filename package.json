@@ -1,0 +1,26 @@
+{
+  "name": "npm-jquery",
+  "version": "1.0.0",
+  "description": "playing with c9",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serenity4eternity786/npm-jquery.git"
+  },
+  "keywords": [
+    "test",
+    "node"
+  ],
+  "author": "Alisha Byford",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serenity4eternity786/npm-jquery/issues"
+  },
+  "homepage": "https://github.com/serenity4eternity786/npm-jquery#readme",
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
